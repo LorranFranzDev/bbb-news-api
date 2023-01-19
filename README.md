@@ -1,1 +1,1 @@
-# bbb-news-api-
+# bbb-news-api
