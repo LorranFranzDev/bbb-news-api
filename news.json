@@ -1,0 +1,36 @@
+[
+   {
+    "id": 4,
+    "title": "Gabriel Santana e Fred Nicácio",
+    "description": "Gabriel Santana e Fred Nicácio que é casado e tem um relacionamento aberto trocam beijos na festa do BBB 23",
+    "author": "Colaboração para Splash, São Paulo.",
+    "image": "https://pbs.twimg.com/media/Fm0LFOeXoAI3hIg?format=png&name=small",
+    "link": "https://www.uol.com.br/splash/noticias/2023/01/19/gabriel-santana-e-fred-nicacio-trocam-beijos-na-festa-do-bbb-23.htm"
+  },
+  {
+    "id": 3,
+    "title": "Cara de Sapato!",
+    "description": "João Vicente de Castro revela grupo com Chay Suede para comentar 'Cara de Sapato' no BBB 23",
+    "author": "Por Gshow — Rio de Janeiro",
+    "image": "https://s2.glbimg.com/f_bOQscMR7COTGI3qIzccutU6Hk=/0x0:1920x1080/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2023/S/v/B2AkhQSAy036obwkCVsA/pre-pronto-capa-1-.png",
+    "link": "https://gshow.globo.com/realities/bbb/bbb-23/noticia/joao-vicente-de-castro-revela-grupo-com-chay-suede-para-comentar-cara-de-sapato-no-bbb-23.ghtml"
+  },
+  
+  {
+    "id": 2,
+    "title": "'Entregar tudo' nas provas.",
+    "description": "Guto TV aposta que elenco do BBB 23 vai 'entregar tudo' nas provas",
+    "author": "Por gshow — Rio de Janeiro",
+    "image": "https://s2.glbimg.com/G0Ve98Uk7HcrS1ljuN2rMfHfBH0=/0x0:1920x1080/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2023/j/M/vGhI3sTf223uql23Meow/pre-pronto-capa-.png",
+    "link": "https://gshow.globo.com/realities/bbb/bbb-23/noticia/guto-tv-aposta-que-elenco-do-bbb-23-vai-entregar-tudo-nas-provas.ghtml"
+  },
+  
+  {
+    "id": 1,
+    "title": "Tadeu Schmidt na Academia",
+    "description": "Tadeu Schmidt malha na academia do BBB 23 e físico faz sucesso na web: 'Bíceps musculosos'",
+    "author": "Por gshow — Rio de Janeiro",
+    "image": "https://s2.glbimg.com/YFlWH2voWPfw4aw8TvkgUEzIZuM=/0x0:1358x558/1008x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2023/O/0/kmWIgCRbWvhYECqPZhEw/1.png",
+    "link": "https://gshow.globo.com/realities/bbb/bbb-23/internet-ta-vendo/noticia/tadeu-schmidt-surge-malhando-na-academia-do-bbb-23-e-fisico-faz-sucesso-na-web.ghtml"
+  }
+]
