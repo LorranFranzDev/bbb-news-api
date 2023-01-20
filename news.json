@@ -1,5 +1,50 @@
 [
    {
+     "id": 9,
+     "title": "",
+     "description": "",
+     "author": "",
+     "image": "",
+     "link": ""
+   },
+   
+   {
+     "id": 8,
+     "title": "'Não vou assumir esse B.O.'",
+     "description": "Gabriel larga Bruna sozinha após briga no BBB 23!",
+     "author": "Por PAOLA ZANON",
+     "image": "https://noticiasdatv.uol.com.br/media/_versions/artigos_2021/bbb23-gabriel-tavares-larga-bruna-reproducao-globo_fixed_large.jpg",
+     "link": "https://noticiasdatv.uol.com.br/noticia/bbb/gabriel-larga-bruna-sozinha-apos-briga-no-bbb-23-nao-vou-assumir-esse-bo-96084"
+   },
+   
+   {
+     "id": 7,
+     "title": "Amanda, traiu ou não?",
+     "description": "Médico se explica sobre relação com Amanda.",
+     "author": "Por Cadu Safner",
+     "image": "https://uploads.metropoles.com/wp-content/uploads/2023/01/19201325/aMANDA-bbb23-1.jpg",
+     "link": "https://www.metropoles.com/colunas/leo-dias/traiu-ou-nao-medico-se-explica-sobre-relacao-com-amanda-do-bbb23"
+   },
+   
+   {
+     "id": 6,
+     "title": "Gustavo e Key Alves se Beijam.",
+     "description": "Após beijar Gustavo, Key Alves abre o jogo sobre possível interesse em outro brother do reality: “É bonito”",
+     "author": "Por Rafael Belmont",
+     "image": "https://br.bolavip.com/_next/image?url=https%3A%2F%2Fbolavip.com%2F__export%2F1674213129603%2Fsites%2Fbolavip%2Fimg%2F2023%2F01%2F20%2Fwhatsapp_image_2023-01-20_at_08_10_02_crop1674213020646.jpeg_1546398727.jpeg&w=828&q=75",
+     "link": "https://br.bolavip.com/entretenimento/Marilia-detona-Gabriel-e-nao-poupa-criticas-contra-brother-Comigo-ele-se-tora-20230120-0048.html"
+   },
+   
+   {
+     "id": 5,
+     "title": "Bruna Giphao e Larissa Líderes!",
+     "description": "Bruna Griphao e Larissa venceram a primeira Prova do Líder do BBB 23 (Globo). Além da imunidade nessa primeira semana, cada uma da dupla que venceu a prova, ganhou o poder de vetar duas pessoas na próxima Prova do Líder.",
+     "author": "Colaboração para Splash, São Paulo.",
+     "image": "https://conteudo.imguol.com.br/c/entretenimento/2e/2023/01/20/bbb-23-bruna-griphao-e-larissa-vencem-a-primeira-prova-do-lider-1674185520603_v2_900x506.png.webp",
+     "link": "https://www.uol.com.br/splash/noticias/2023/01/19/primeiro-lider-da-semana-bbb-23.htm"
+   },
+   
+   {
     "id": 4,
     "title": "Gabriel Santana e Fred Nicácio",
     "description": "Gabriel Santana e Fred Nicácio que é casado e tem um relacionamento aberto trocam beijos na festa do BBB 23",
