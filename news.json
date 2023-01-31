@@ -1,5 +1,303 @@
 [
-       {
+    
+  {
+     "id": 114,
+     "title": "Quem você quer eliminar do BBB 23?",
+     "description": "Vote agora mesmo!",
+     "author": "Por gshow — Rio de Janeiro / 31/01/2023",
+     "image": "https://s2.glbimg.com/lsuEGwlvUO3w3U50-sU1Sf687mw=/1000x562/smart/filters:distributed_collage(horizontal,smart,s2.glbimg.com/Iu5aElLrRfBx6CcRKWBIxYKrE7o=/0x0:650x650/648x0/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2023/8/w/bZHI9YTfGXQ3g3p6wfcg/cezar-enquete.png%7Cs2.glbimg.com/h3gT4UOGynaWeQIfzjtD-AdOi_s=/0x0:650x650/648x0/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2023/X/W/5etaASSJie0uMFfOy0vA/domitila-barros-enquete.png%7Cs2.glbimg.com/8bhtf40CJvOGATEUb6xBUKDslE8=/0x0:650x650/648x0/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2023/k/3/rjPimjRAidaruy65A1HA/gabriel-enquete.png):format(jpg):cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/fallback_votacao_wide.png",
+     "link": "https://gshow.globo.com/realities/bbb/bbb-23/votacao/quem-voce-quer-eliminar-do-bbb-23-48855781-f028-42fb-999c-c8deb4188b0a.ghtml"
+   },  
+
+   {
+     "id": 113,
+     "title": "Veja os melhores momentos do Jogo da Discórdia que vão te arrancar uma risada",
+     "description": "Além de ter causado muita discórdia e treta, a dinâmica do BBB 23 rendeu bons memes; confira aqui!",
+     "author": "Por gshow — Rio de Janeiro / 31/01/2023",
+     "image": "https://s2.glbimg.com/OXaTfVVjccJIiGI_3X0K22tygC4=/0x0:1920x1080/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2023/B/J/hvQFKsQwC6j02BGZ51Fw/design-sem-nome.png",
+     "link": "https://gshow.globo.com/realities/bbb/bbb-23/internet-ta-vendo/noticia/veja-os-melhores-momentos-do-jogo-da-discordia-que-vao-te-arrancar-uma-risada.ghtml"
+   },  
+  
+   {
+     "id": 112,
+     "title": "'Ele mexe comigo'",
+     "description": "Em conversa com Cezar na Xepa do BBB 23, atriz diz que terá uma resposta do público",
+     "author": "Por gshow — Rio de Janeiro / 31/01/2023",
+     "image": "https://s2.glbimg.com/fVqZpmcKSKteLbSxhj0m4cRiGZE=/0x0:1892x1080/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2023/n/S/AwKYtpQ7KN9WzruIdjAw/bbb23-310123-115111.jpg",
+     "link": "https://gshow.globo.com/realities/bbb/bbb-23/dentro-da-casa/noticia/bruna-griphao-avalia-relacao-com-gabriel-e-se-diz-ansiosa-com-paredao.ghtml"
+   },
+
+  {
+     "id": 111,
+     "title": "Tina critica Cara de Sapato: 'Me enrolou'",
+     "description": "Sister conversa com MC Guimê sobre atitude do lutador ao escolher convidados para Cinema do Líder",
+     "author": "Por gshow — Rio de Janeiro / 31/01/2023",
+     "image": "https://s2.glbimg.com/0mdORo7nWlvSv20vOwWJteR_Pfc=/0x0:1920x1080/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2023/3/v/Nkik69Thymhm5kx1Lo7g/bbb23-310123-115801.jpg",
+     "link": "https://gshow.globo.com/realities/bbb/bbb-23/dentro-da-casa/noticia/tina-do-bbb-23-critica-cara-de-sapato-me-enrolou.ghtml"
+   },  
+  
+   {
+     "id": 110,
+     "title": "Relembre os momentos 'fogo no parquinho' da edição",
+     "description": "Fio dental, peruca e até assuntos mais sérios: o Big Brother Brasil 23 já coleciona uma série de desentendimentos; confira os embates que já aconteceram até aqui!",
+     "author": "Por gshow — Rio de Janeiro / 31/01/2023",
+     "image": "https://s2.glbimg.com/YqJQkmX9dMxHI0uJb0VSnnRKcvo=/0x0:1200x627/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2023/e/g/OkDkK7TaiDCN2Z47kBDA/tina-lari-gabriel.png",
+     "link": "https://gshow.globo.com/realities/bbb/bbb-23/dentro-da-casa/noticia/tretas-do-bbb-23-relembre-os-momentos-fogo-no-parquinho-da-edicao.ghtml"
+   },
+
+   {
+     "id": 109,
+     "title": "Gabriel Santana bate recorde de tortadas e dois participantes saem de cara limpa",
+     "description": "Brothers se dividiram em três grupos, com coletes nas cores azul, lilás e amarelo;",
+     "author": "Por gshow — Rio de Janeiro / 31/01/2023",
+     "image": "https://s2.glbimg.com/nxV2oXNFDBAit78KJl14tsKV8Ls=/0x0:1920x1080/1080x0/smart/filters:quality(70)/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2023/f/S/GUmCjmTDiIgkd7enfAAQ/bbb23-310123-002724.jpg",
+     "link": "https://gshow.globo.com/realities/bbb/bbb-23/jogo-discordia/ao-vivo/jogo-da-discordia-do-bbb-23-acompanhe.ghtml"
+   },  
+  
+   {
+     "id": 108,
+     "title": "É difícil cozinhar para muita gente? Saiba como calcular quantidade por pessoa",
+     "description": "No BBB 23, os brothers passaram apuros para acertar a quantidade de comida por pessoa. Chef lista critérios que devemos levar em conta ao montar um cardápio",
+     "author": "Por gshow — Rio de Janeiro / 31/01/2023",
+     "image": "https://s2.glbimg.com/GAIPHG4UANOhuVlz1kT824zDfFM=/0x0:1121x630/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_1f540e0b94d8437dbbc39d567a1dee68/internal_photos/bs/2023/A/8/T8h2RGQCemAKybuvLjfQ/participantes-almoco-bbb23.jpg",
+     "link": "https://receitas.globo.com/receitas-da-tv/bbb/edicao-2023/quantidade-de-comida-por-pessoa-entenda-como-calcular.ghtml"
+   },
+
+   {
+     "id": 107,
+     "title": "Trégua? Cézar e Tina terminam madrugada conversando no sofá",
+     "description": "Depois do Jogo da Discórdia, a dupla terminou a madrugada juntinho do sofá da sala do BBB 23",
+     "author": "Por gshow — Rio de Janeiro / 31/01/2023",
+     "image": "https://s2.glbimg.com/keKbwn47sfCydS9Wq8d_Zqkv4Eg=/0x0:1920x1080/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2023/z/B/eWVdcvQI6uN9jxsYbz7w/bbb23-310123-034901.jpg",
+     "link": "https://gshow.globo.com/realities/bbb/bbb-23/dentro-da-casa/noticia/tregua-cezar-e-tina-terminam-madrugada-conversando-no-sofa.ghtml"
+   },  
+  
+   {
+     "id": 106,
+     "title": "Resumo BBB 23 de 31/1: após Jogo da Discórdia, madrugada tem acerto de contas",
+     "description": "A dinâmica com torta na cara rendeu; veja os destaques da madrugada desta de terça-feira",
+     "author": "Por gshow — Rio de Janeiro / 31/01/2023",
+     "image": "https://s2.glbimg.com/WzQso9jDQObaOhfGwAnJGglUx5c=/0x0:1200x627/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2023/w/Y/Z8YAi6RjyqELIJnG3C6Q/fotojet-5-.jpg",
+     "link": "https://gshow.globo.com/realities/bbb/bbb-23/dentro-da-casa/noticia/resumo-bbb-23-de-311-apos-jogo-da-discordia-madrugada-tem-acerto-de-contas-entre-aliados-e-tregua-entre-rivais.ghtml"
+   },
+
+  {
+     "id": 105,
+     "title": "Tina e Ricardo dizem quais brothers são suas prioridades",
+     "description": "Aliados têm longa conversa após o Jogo da Discórdia na madrugada desta terça-feira, 31/1",
+     "author": "Por gshow — Rio de Janeiro / 31/01/2023",
+     "image": "https://s2.glbimg.com/zqD-nT2j5cuQqvB2Edyu4o_hvxA=/0x0:1920x1080/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2023/J/F/5d0DToSBiXAuZTXEaU1w/bbb23-310123-040535.jpg",
+     "link": "https://gshow.globo.com/realities/bbb/bbb-23/jogo-discordia/noticia/tina-e-ricardo-dizem-quais-brothers-sao-suas-prioridades-no-bbb-23.ghtml"
+   },  
+  
+   {
+     "id": 104,
+     "title": "Terceiro Jogo da Discórdia tem acusações, torta na cara e climão entre brothers",
+     "description": "Gabriel Santana bate recorde de tortadas e dois participantes saem de cara limpa",
+     "author": "Por gshow — Rio de Janeiro / 31/01/2023",
+     "image": "https://s2.glbimg.com/_A0M1BDRw7mFk6LhsiQ230YJTQs=/1594x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2023/5/c/U5wgPJRACAUK6CLHndhA/amanda.jpeg",
+     "link": "https://gshow.globo.com/realities/bbb/bbb-23/jogo-discordia/noticia/terceiro-jogo-da-discordia-tem-acusacoes-torta-na-cara-e-climao-entre-brothers.ghtml"
+   },
+
+   {
+     "id": 103,
+     "title": "Key Alves revela ter ciúmes de Gustavo com sister",
+     "description": "De acordo com a jogadora de vôlei, uma sister costuma ir ao banheiro quando Gustavo está tomando banho",
+     "author": "Por gshow — Rio de Janeiro / 31/01/2023",
+     "image": "https://s2.glbimg.com/7bDPltkUWlDEd2tJXqoVFtf1PeQ=/0x0:1920x1080/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2023/y/f/sFFDzuQ6iCiYPipGNC3w/bbb23-310123-031655.jpg",
+     "link": "https://gshow.globo.com/realities/bbb/bbb-23/jogo-discordia/noticia/key-alves-revela-ter-ciumes-de-gustavo-no-bbb-23.ghtml"
+   },  
+  
+   {
+     "id": 102,
+     "title": "Quarto Deserto reafirma aliança: 'O plano continua'",
+     "description": "Grupo teve conflitos durante a dinâmica, mas pretendem seguir jogando juntos",
+     "author": "Por gshow — Rio de Janeiro / 31/01/2023",
+     "image": "https://s2.glbimg.com/KZyZqtjKnOG7CtKs2BRSUteHV-0=/0x0:1920x1080/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2023/9/a/w6gRr2ReO872m78NwWrQ/bbb23-310123-032609.jpg",
+     "link": "https://gshow.globo.com/realities/bbb/bbb-23/jogo-discordia/noticia/apos-brigas-em-jogo-da-discordia-grupo-do-quarto-deserto-reafirma-alianca-o-plano-continua.ghtml"
+   },
+
+   {
+     "id": 101,
+     "title": "Bruna Griphao fala de Fred Nicácio: 'Atitude de manipulador'",
+     "description": "Em conversa com Cara de Sapato, a atriz opina sobre falas de Nicácio no Jogo da Discórdia",
+     "author": "Por gshow — Rio de Janeiro / 31/01/2023",
+     "image": "https://s2.glbimg.com/EexD3TIUkc9mGICJ7EgbQJSFI3M=/0x0:1920x1080/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2023/b/U/Az6MrzRnCbmxEBRBJCtQ/bbb23-310123-030919.jpg",
+     "link": "https://gshow.globo.com/realities/bbb/bbb-23/jogo-discordia/noticia/no-bbb-23-bruna-griphao-fala-de-fred-nicacio-atitude-de-manipulador.ghtml"
+   },  
+  
+   {
+     "id": 100,
+     "title": "'Não vejo a hora de parar'",
+     "description": "Psicóloga critica a divisão da casa em dois grandes grupos e previsibilidade do jogo",
+     "author": "Por gshow — Rio de Janeiro / 31/01/2023",
+     "image": "https://s2.glbimg.com/KIPfwD79aVBbo7i46J43vl7xopw=/0x0:1920x1080/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2023/x/2/Pz2hCRQAaiTBzbYH05Iw/bbb23-310123-025459.jpg",
+     "link": "https://gshow.globo.com/realities/bbb/bbb-23/jogo-discordia/noticia/sarah-aline-fala-sobre-divisao-do-bbb-23-em-grupos-nao-vejo-a-hora-de-parar.ghtml"
+   },
+
+  {
+     "id": 99,
+     "title": "Domitila fala sobre choro de Cezar no BBB 23: 'Vitimismo'",
+     "description": "Ativista social tem se desentendido com o enfermeiro dentro da casa",
+     "author": "Por gshow — Rio de Janeiro / 31/01/2023",
+     "image": "https://s2.glbimg.com/GGyB0uNiP-TJ88aO8T0aa35-dG4=/0x0:1920x1080/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2023/5/E/n1VXwdQE268ZIylNSK6w/bbb23-310123-022053.jpg",
+     "link": "https://gshow.globo.com/realities/bbb/bbb-23/jogo-discordia/noticia/domitila-fala-sobre-choro-de-cezar-no-bbb-23-vitimismo.ghtml"
+   },  
+  
+   {
+     "id": 98,
+     "title": "Cara de Sapato fala de Fred Nicácio para brothers: 'Teve manipulação'",
+     "description": "Líder da semana está irritado com fala de Nicácio no Jogo da Discórdia",
+     "author": "Por gshow — Rio de Janeiro / 31/01/2023",
+     "image": "https://s2.glbimg.com/2qGFoopp_0WV3pWPvI3V__M6BzI=/0x0:1920x1080/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2023/H/c/o7jDsqQWOXAcC2YDn1Qg/bbb23-310123-022119.jpg",
+     "link": "https://gshow.globo.com/realities/bbb/bbb-23/jogo-discordia/noticia/cara-de-sapato-fala-de-fred-nicacio-para-brothers-teve-manipulacao.ghtml"
+   },
+
+   {
+     "id": 97,
+     "title": "Grupo do Quarto Deserto concorda em combinar estratégias para o Jogo da Discórdia",
+     "description": "Após discussões dentro do grupo durante a dinâmica, aliados concordam em alinharem posicionamentos",
+     "author": "Por gshow — Rio de Janeiro / 31/01/2023",
+     "image": "https://s2.glbimg.com/MdGd2jhouQmxX_sID1bsIq7i3UU=/0x0:1920x1080/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2023/a/m/1rbJ28QGSFEE92nBBzVw/bbb23-310123-021343.jpg",
+     "link": "https://gshow.globo.com/realities/bbb/bbb-23/jogo-discordia/noticia/grupo-do-quarto-deserto-concorda-em-combinar-estrategias-para-o-jogo-da-discordia.ghtml"
+   },  
+  
+   {
+     "id": 96,
+     "title": "Bruna Griphao se irrita com atitude do grupo no Jogo da Discórdia: 'Pra mim, deu'",
+     "description": "Atriz conversou com brothers do Quarto Deserto e se demonstrou irritada com falas durante a dinâmica",
+     "author": "Por gshow — Rio de Janeiro / 31/01/2023",
+     "image": "https://s2.glbimg.com/VOxDAX9CTaRiy7EaKyq0VEbMYSc=/0x0:1920x1080/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2023/N/P/prCgMqSz63UIZgb9e7rA/bbb23-310123-020703.jpg",
+     "link": "https://gshow.globo.com/realities/bbb/bbb-23/jogo-discordia/noticia/bruna-griphao-se-irrita-com-atitude-do-grupo-no-jogo-da-discordia-e-dispara-pra-mim-deu.ghtml"
+   },
+
+   {
+     "id": 95,
+     "title": "Larissa fala sobre brother emparedado: 'Não me importaria se voltasse'",
+     "description": "Em conversa no Quarto do Líder, a sister fala sobre a situação do modelo Gabriel",
+     "author": "Por gshow — Rio de Janeiro / 31/01/2023",
+     "image": "https://s2.glbimg.com/qnTLcuQ92kjWYmf4iJX7EJck_CY=/0x0:1920x1080/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2023/K/Z/1BZqNXRQOmqgjbf3Ilww/bbb23-310123-015357.jpg",
+     "link": "https://gshow.globo.com/realities/bbb/bbb-23/jogo-discordia/noticia/larissa-fala-sobre-brother-emparedado-nao-me-importaria-se-voltasse.ghtml"
+   },  
+  
+   {
+     "id": 94,
+     "title": "Ricardo se irrita com atitude de Fred em Jogo da Discórdia: 'Racha o grupo'",
+     "description": "Brother não concordou com indicação de Fred durante a dinâmica desta segunda-feira, 30/1",
+     "author": "Por gshow — Rio de Janeiro / 31/01/2023",
+     "image": "https://s2.glbimg.com/rdg6TasQg9wdclVNX3pxUXuQ4lE=/0x0:1920x1080/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2023/B/y/5lDLZbSqu3KSz7SpQxVg/bbb23-310123-013843.jpg",
+     "link": "https://gshow.globo.com/realities/bbb/bbb-23/jogo-discordia/noticia/ricardo-se-irrita-com-atitude-de-fred-em-jogo-da-discordia-e-dispara-racha-o-grupo.ghtml"
+   },
+
+  {
+     "id": 93,
+     "title": "Paula e Tina se resolvem após Jogo da Discórdia",
+     "description": "Sisters entram em consenso para resolver conflitos sem expor o grupo de aliados",
+     "author": "Por gshow — Rio de Janeiro / 31/01/2023",
+     "image": "https://s2.glbimg.com/hwZXz_0Ru5YGTuEatWLuzoOWyMc=/0x0:1920x1080/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2023/S/o/fmNNhXR76LFMIEZk5kHA/bbb23-310123-012608.jpg",
+     "link": "https://gshow.globo.com/realities/bbb/bbb-23/jogo-discordia/noticia/no-bbb-23-paula-e-tina-se-resolvem-apos-jogo-da-discordia.ghtml"
+   },  
+  
+   {
+     "id": 92,
+     "title": "Tina tira lace e tem embate com Paula no Jogo da Discórdia",
+     "description": "Internautas se divertem e momento vira meme nas redes sociais",
+     "author": "Por gshow — Rio de Janeiro / 31/01/2023",
+     "image": "https://s2.glbimg.com/aZsUp0oiqD6puTLIa8xRxf1NDU4=/0x0:1600x900/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2023/3/y/MiDUzRTMKX9Gw3cYfnIA/tina.jpeg",
+     "link": "https://gshow.globo.com/realities/bbb/bbb-23/jogo-discordia/noticia/tina-tira-lace-e-tem-embate-com-paula-no-jogo-da-discordia-do-bbb-23.ghtml"
+   },
+
+   {
+     "id": 91,
+     "title": "Quem foi o Craque do Jogo da Discórdia?",
+     "description": "Participe das enquetes do BBB 23 e opine sobre os principais acontecimentos da temporada da casa mais vigiada do Brasil. Vem votar!",
+     "author": "Por gshow — Rio de Janeiro / 31/01/2023",
+     "image": "https://s2.glbimg.com/wHVxQvPiYrMZnL5CFUAX33q89pY=/810x456/top/smart/s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2023/p/U/8ImPzDQ92HpnxRyIrXlw/discordia.jpg",
+     "link": "https://gshow.globo.com/realities/bbb/bbb-23/enquete-bbb/votacao/quem-foi-o-craque-do-jogo-da-discordia-956a0994-e674-49b7-afe3-d2e82e6fff9e.ghtml"
+   },  
+  
+   {
+     "id": 90,
+     "title": "",
+     "description": "",
+     "author": "Por gshow — Rio de Janeiro / 31/01/2023",
+     "image": "",
+     "link": ""
+   },
+
+   {
+     "id": 89,
+     "title": "Sarah Aline revela para Ricardo motivo de ter parado de conversar com Fred Nicácio",
+     "description": "Psicóloga explica o que teria causado o incômodo que Ricardo citou no Jogo da Discórdia",
+     "author": "Por gshow — Rio de Janeiro / 31/01/2023",
+     "image": "https://s2.glbimg.com/AVZbnU_4NVQmbCZ1eaKNjaKzXDw=/0x0:1920x1080/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2023/X/x/dzudP7SzqDQ87ZHn4KAA/bbb23-310123-013026.jpg",
+     "link": "https://gshow.globo.com/realities/bbb/bbb-23/jogo-discordia/noticia/sarah-aline-revela-para-ricardo-motivo-de-ter-parado-de-conversar-com-fred-nicacio.ghtml"
+   },  
+  
+   {
+     "id": 88,
+     "title": " 'Você não me passa um respeito'",
+     "description": "O brother se sentiu ofendido pelo ator em discussão sobre o celular do Feed BBB",
+     "author": "Por gshow — Rio de Janeiro / 31/01/2023",
+     "image": "https://s2.glbimg.com/eddcfPgfrHXPBNtm69DQ1ek_WaI=/0x0:1920x1080/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2023/j/V/EguaYNR12zRRLF1rDpYw/bbb23-310123-012003.jpg",
+     "link": "https://gshow.globo.com/realities/bbb/bbb-23/jogo-discordia/noticia/ricardo-fala-com-gabriel-santana-apos-o-jogo-da-discordia-e-explica-voce-nao-me-passa-um-respeito.ghtml"
+   },
+
+  {
+     "id": 87,
+     "title": "Cara de Sapato diz que Cezar está no Paredão por causa de Fred Nicácio e brothers discutem",
+     "description": "Lutador apontou o médico como culpado por Cezar e Cristian se tornarem alvo",
+     "author": "Por gshow — Rio de Janeiro / 31/01/2023",
+     "image": "https://s2.glbimg.com/DNlwmJc_9brgNT4N5bpQTZNEtIo=/0x0:1600x813/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2023/f/s/qkh8kIRV2v4fmKgzVLuw/whatsapp-image-2023-01-31-at-00.47.22.jpeg",
+     "link": "https://gshow.globo.com/realities/bbb/bbb-23/jogo-discordia/noticia/cara-de-sapato-diz-que-cezar-esta-no-paredao-por-causa-de-fred-nicacio-e-brothers-discutem.ghtml"
+   },  
+  
+   {
+     "id": 86,
+     "title": "Tadeu Schmidt anuncia 'reforço' para encarar o Jogo da Discórdia",
+     "description": "Apresentador compartilhou imagens dos bastidores do programa nas redes sociais",
+     "author": "Por gshow — Rio de Janeiro / 31/01/2023",
+     "image": "https://s2.glbimg.com/9kBxq0TRRzcI8dzp59MCCH-EZVA=/0x0:1080x1350/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2023/R/f/SCm8iDRRmNh0Mbxz1f5A/327949342-5781249125262515-2173671788061171293-n.jpg",
+     "link": "https://gshow.globo.com/realities/bbb/bbb-23/internet-ta-vendo/noticia/tadeu-schmidt-anuncia-reforco-em-jogo-da-discordia.ghtml"
+   },
+
+   {
+     "id": 85,
+     "title": "Reações de Fred Nicácio no Jogo da Discórdia atualizam 'pack de memes' do BBB 23: 'Coringou'",
+     "description": "Médico foi comparado a famoso personagem de HQ",
+     "author": "Por gshow — Rio de Janeiro / 31/01/2023",
+     "image": "https://s2.glbimg.com/WmUBvb0Q__1112KQn0sfwzuBsxI=/0x0:874x516/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2023/C/0/ijEABzTGmee2KY5JbloQ/fred-nicacio-bbb-23.jpg",
+     "link": "https://gshow.globo.com/realities/bbb/bbb-23/jogo-discordia/noticia/reacoes-de-fred-nicacio-no-jogo-da-discordia-atualiza-pack-de-memes-do-bbb-23-coringou.ghtml"
+   },  
+  
+   {
+     "id": 84,
+     "title": "Ricardo chama Fred Nicácio de ridículo e internautas se divertem com atrito da dupla",
+     "description": "O médico deu risada do argumento do brother durante o Jogo da Discórdia",
+     "author": "Por gshow — Rio de Janeiro / 31/01/2023",
+     "image": "https://s2.glbimg.com/EYe76BrmrVzHVGnjxTFxOm5ZVN8=/0x0:1920x1080/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2023/e/A/jruJQERs6JZ6gu0KB0ag/capa-com-montagem-29-.png",
+     "link": "https://gshow.globo.com/realities/bbb/bbb-23/internet-ta-vendo/noticia/ricardo-chama-fred-nicacio-de-ridiculo-e-internautas-se-divertem-com-atrito-da-dupla.ghtml"
+   },
+
+   {
+     "id": 83,
+     "title": "Fred Nicácio usa Quarto Secreto contra Bruno e Cara de Sapato em Jogo da Discórdia",
+     "description": "Médico escolhe brothers como alvo e menos confiável do Big Brother Brasil 23",
+     "author": "Por gshow — Rio de Janeiro / 31/01/2023",
+     "image": "https://s2.glbimg.com/WAGBfcw1RDgHxRTBRzxu5rUDm60=/0x0:1600x817/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2023/s/g/e55C9mRmuBZCsx1guZvA/nicacio-bruno.jpeg",
+     "link": "https://gshow.globo.com/realities/bbb/bbb-23/jogo-discordia/noticia/fred-nicacio-usa-trunfos-do-quarto-secreto-do-bbb-23-para-atacar-bruno-e-cara-de-sapato-em-jogo-da-discordia.ghtml"
+   },  
+  
+   {
+     "id": 82,
+     "title": "Larissa e Gabriel trocam farpas no Jogo da Discórdia",
+     "description": "Sister elegeu brother como 'não confiável' em dinâmica",
+     "author": "Por gshow — Rio de Janeiro / 31/01/2023",
+     "image": "https://s2.glbimg.com/kz7RwMPM65SHig4V_8iX6zcOBo4=/0x0:1600x822/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2023/3/x/vBVnbVQvAlM8CeOPIK6A/larissa-bbb-23.jpeg",
+     "link": "https://gshow.globo.com/realities/bbb/bbb-23/jogo-discordia/noticia/larissa-e-gabriel-trocam-farpas-no-jogo-da-discordia.ghtml"
+   },   
+       
+    {
      "id": 81,
      "title": "Quem você quer eliminar do BBB 23?",
      "description": "Vote agora mesmo!",
