@@ -1,12 +1,335 @@
 [
    {
-     "id": 132,
+     "id": 168,
      "title": "NOS AJUDE A MELHORAR",
-     "description": "Participe de Nossa Pesquisa",
+     "description": "Participe de Nossa Pesquisa. FIXADA, noticias novas sempre abaixo da pesquisa!",
      "author": "BASE5TECH",
      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRpTe_EZtLGg1zY99WvPAqbBL50_Q-qm_AiptV9CuDMEgx2ihJBaiWPrWR&s=10",
      "link": "https://forms.gle/pFaMGmR1eG4pd9Rn6"
+   }, 
+     {
+     "id": 167,
+     "title": "Começa a Prova do Anjo Chevrolet: entenda as regras e acompanhe",
+     "description": "Participantes disputam quarto colar da imunidade neste sábado, 11/2",
+     "author": "Por gshow — Rio de Janeiro / 11/02/2023",
+     "image": "https://s2.glbimg.com/OdrtxmUhUkvzO7wRxuy_3IyJS0o=/0x0:1920x1080/1080x0/smart/filters:quality(70)/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2023/Y/S/MJk2OmQVCaZWR12xIarQ/bbb23-110223-130913.jpg",
+     "link": "https://gshow.globo.com/realities/bbb/bbb-23/prova-do-anjo/ao-vivo/comeca-a-prova-do-anjo-chevrolet-entenda-as-regras-e-acompanhe.ghtml"
    },  
+  
+   {
+     "id": 166,
+     "title": "Ricardo contesta veto de Cezar na Prova do Anjo e dispara: 'Esse moleque é covarde'",
+     "description": "Biomédico desabafa com MC Guimê sobre insatisfação com Cezar",
+     "author": "Por gshow — Rio de Janeiro / 11/02/2023",
+     "image": "https://s2.glbimg.com/d9uZYE7UUqwreFv65twwzkX0Gig=/0x0:1920x1080/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2023/9/7/U0hayTTIKenZBXKmJAHg/bbb23-110223-120106.jpg",
+     "link": "https://gshow.globo.com/realities/bbb/bbb-23/prova-do-anjo/noticia/ricardo-contesta-veto-na-prova-do-anjo-nao-sou-obrigado-a-aceitar-nao.ghtml"
+   },
+
+   {
+     "id": 165,
+     "title": "Entenda as regras da Prova do Anjo Chevrolet",
+     "description": "Participantes recebem orientações de como será o desafio deste sábado, 11/2",
+     "author": "Por gshow — Rio de Janeiro / 11/02/2023",
+     "image": "https://s2.glbimg.com/1C2XK7U442x_6osMt3Kl2IuBuqU=/0x0:1920x1080/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2023/L/J/7U8KgeSBAJTgtdihD9KA/bbb23-110223-114545.jpg",
+     "link": "https://gshow.globo.com/realities/bbb/bbb-23/prova-do-anjo/noticia/entenda-as-regras-da-prova-do-anjo-chevrolet.ghtml"
+   },  
+  
+   {
+     "id": 164,
+     "title": "Ricardo desabafa sobre treta com Paula: 'Clima muito pesado'",
+     "description": "No Raio-X, brother afirmou estar se sentindo sozinho; biomédico teve uma longa discussão com Paula nesta madrugada",
+     "author": "Por gshow — Rio de Janeiro / 11/02/2023",
+     "image": "https://s2.glbimg.com/xxxTbXXk0mT6aG9saAdK7SuDJ0A=/0x0:1920x1080/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2023/h/N/ZQSQwCQAi2Kd4Q5EughA/bbb23-110223-102447.jpg",
+     "link": "https://gshow.globo.com/realities/bbb/bbb-23/dentro-da-casa/noticia/ricardo-desabafa-sobre-treta-com-paula-clima-muito-pesado.ghtml"
+   },
+
+   {
+     "id": 163,
+     "title": "De 'nova' integrante do Rouge a Líder cantor: brothers soltam a voz em karaokê do BBB 23 e web elogia",
+     "description": "Festa da noite desta sexta, 10/2, contou com cantoria na casa mais vigiada do Brasil",
+     "author": "Por gshow — Rio de Janeiro / 11/02/2023",
+     "image": "https://s2.glbimg.com/n7GtDoQ0WJuZpvft_kUXejn0uL0=/0x0:1200x627/1008x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2023/4/z/SDITfRRQWdFEMhOZsDRQ/karaoke-bbb-23.jpg",
+     "link": "https://gshow.globo.com/realities/bbb/bbb-23/internet-ta-vendo/noticia/de-nova-integrante-do-rouge-a-lider-cantor-brothers-soltam-a-voz-em-karaoke-do-bbb-23-e-web-elogia.ghtml"
+   },  
+  
+   {
+     "id": 162,
+     "title": "Chimarrão: conheça os benefícios da bebida que fez sucesso no Almoço do Anjo do BBB",
+     "description": "Durante Almoço do Anjo, Cristian, que é gaúcho, ensinou como consumir a bebida. Nutricionista explica benefícios e cuidados para não ter consumo em excesso",
+     "author": "Por gshow — Rio de Janeiro / 11/02/2023",
+     "image": "https://s2.glbimg.com/-hUAlWm-Wzf5Z8_n3NHoFs4llQ4=/0x0:1064x624/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_1f540e0b94d8437dbbc39d567a1dee68/internal_photos/bs/2023/f/L/qVRKp1QCmm0kpIH6VHqg/cristian-chimas.jpg",
+     "link": "https://receitas.globo.com/receitas-da-tv/bbb/edicao-2023/chimarrao-conheca-os-beneficios-da-bebida-que-fez-sucesso-no-almoco-do-anjo-do-bbb.ghtml"
+   },
+
+  {
+     "id": 161,
+     "title": "Resumo BBB 23 de 11/2: festa tem alvos definidos para o Paredão, línguas afiadas e DR de Paula e Ricardo",
+     "description": "Confira tudo o que rolou na festa do BBB 23 na madrugada deste sábado",
+     "author": "Por gshow — Rio de Janeiro / 11/02/2023",
+     "image": "https://s2.glbimg.com/Tx4mXZsAUha4J3jTqLThL_CQeD0=/0x0:1200x627/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2023/2/G/Bb3XgeToaKRCuR3ESndg/resumo-bbb-23-11.2.jpg",
+     "link": "https://gshow.globo.com/realities/bbb/bbb-23/festa/noticia/resumo-bbb-23-de-112-festa-tem-alvos-definidos-para-o-paredao-linguas-afiadas-e-dr-de-paula-e-ricardo.ghtml"
+   },  
+  
+   {
+     "id": 160,
+     "title": "Bruna Griphao chama a atenção de Bruno: 'Você sempre passa do ponto'",
+     "description": "Marvvila, por sua vez, pede para o brother ter cuidado durante o 'after' da festa do BBB 23",
+     "author": "Por gshow — Rio de Janeiro / 11/02/2023",
+     "image": "https://s2.glbimg.com/xdFQ1n77xBfklASsU9ZTd8g_IaY=/0x0:1920x1080/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2023/H/d/Azt9QQTDAlA8t4HZYQdg/bbb23-110223-060144.jpg",
+     "link": "https://gshow.globo.com/realities/bbb/bbb-23/dentro-da-casa/noticia/no-after-dos-crias-no-bbb-23-bruna-griphao-diz-para-bruno-voce-sempre-passa-do-ponto.ghtml"
+   },
+
+   {
+     "id": 159,
+     "title": "Bruno e Marvvila conversam sobre desavença no BBB 23: 'Pra mim, você se achou superior'",
+     "description": "Brothers aproveitaram a festa desta sexta-feira, 10/2, para 'lavar roupa suja'",
+     "author": "Por gshow — Rio de Janeiro / 11/02/2023",
+     "image": "https://s2.glbimg.com/75PSG_XjE9RIqxfzTVh6XdkFyiI=/0x0:1920x1080/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2023/T/L/LvVrZqSwSGfOPyFyOUhg/bbb23-110223-045839.jpg",
+     "link": "https://gshow.globo.com/realities/bbb/bbb-23/festa/noticia/bruno-e-marvvila-se-abracam-apos-troca-de-ofensas-no-bbb-23.ghtml"
+   },  
+  
+   {
+     "id": 158,
+     "title": "Fred Nicácio dispara sobre Cara de Sapato: 'É um mala, um pé no saco'",
+     "description": "Momento aconteceu durante a festa desta sexta-feira 10/2; brother conversava com Key Alves e Gustavo",
+     "author": "Por gshow — Rio de Janeiro / 11/02/2023",
+     "image": "https://s2.glbimg.com/aftwkm77Or_O1bc9GND041u3QVw=/0x0:1920x1080/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2023/8/h/BmV3uaTaS3FjAAW9dbXA/bbb23-110223-040816.jpg",
+     "link": "https://gshow.globo.com/realities/bbb/bbb-23/festa/noticia/fred-nicacio-dispara-sobre-cara-de-sapato-e-um-mala-um-pe-no-saco.ghtml"
+   },
+
+   {
+     "id": 157,
+     "title": "Paula desabafa sobre discussão com Ricardo: 'Explodiu comigo'",
+     "description": "Biomédica desabafa com Cristian sobre longa conversa que teve com Ricardo na cozinha da Xepa",
+     "author": "Por gshow — Rio de Janeiro / 11/02/2023",
+     "image": "https://s2.glbimg.com/AamfV3Zu59YK6nw3mWKyIyepp44=/0x0:1920x1080/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2023/d/a/APb7G9SRqYyQMTBf8gQQ/bbb23-110223-035846.jpg",
+     "link": "https://gshow.globo.com/realities/bbb/bbb-23/festa/noticia/paula-desabafa-sobre-discussao-com-ricardo-explodiu-comigo.ghtml"
+   },  
+  
+   {
+     "id": 156,
+     "title": "Cezar diz que quer Paredão com Paula e Ricardo: 'As piores pessoas'",
+     "description": "Enfermeiro conversa com Gabriel Santana sobre formação do Paredão e revela mira em dupla de biomédicos",
+     "author": "Por gshow — Rio de Janeiro / 11/02/2023",
+     "image": "https://s2.glbimg.com/W8o4vm-GIPWsahfzhBIOaSzUzJ4=/0x0:1920x1080/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2023/k/m/dJYBUASVyeBA2170rxgQ/bbb23-110223-035145.jpg",
+     "link": "https://gshow.globo.com/realities/bbb/bbb-23/festa/noticia/cezar-diz-que-paula-e-ricardo-sao-suas-opcoes-de-voto-as-piores-pessoas.ghtml"
+   },
+
+  {
+     "id": 155,
+     "title": "Paula chama Ricardo de possessivo e dispara: 'Abaixa o tom comigo'",
+     "description": "Biomédicos discutem na cozinha da Xepa após conversas sobre a formação do Paredão do BBB 23",
+     "author": "Por gshow — Rio de Janeiro / 11/02/2023",
+     "image": "https://s2.glbimg.com/56ISBqglNFFZeipAwmWcCgCm-jY=/0x0:1920x1080/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2023/m/y/KA69dnSz6z7ZmwhTabRQ/bbb23-110223-032214.jpg",
+     "link": "https://gshow.globo.com/realities/bbb/bbb-23/festa/noticia/paula-chama-ricardo-de-possessivo-e-dispara-abaixa-o-tom-comigo.ghtml"
+   },  
+  
+   {
+     "id": 154,
+     "title": "'Se achando demais'",
+     "description": "Em conversa com MC Guimê, biomédico critica postura de sister dentro da casa do BBB 23",
+     "author": "Por gshow — Rio de Janeiro / 11/02/2023",
+     "image": "https://s2.glbimg.com/g1HgQliKPJ-R-Z74hIt4tBkUh-Q=/0x0:1920x1080/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2023/a/O/H4X4bQRfyVXo6wg4APKg/bbb23-110223-025926.jpg",
+     "link": "https://gshow.globo.com/realities/bbb/bbb-23/festa/noticia/ricardo-dispara-sobre-sister-do-bbb-23-se-achando-demais.ghtml"
+   },
+
+   {
+     "id": 153,
+     "title": "Prova do Anjo do BBB 23 será em dupla e dará carro ao vencedor",
+     "description": "Dinâmica da semana foi explicada por Tadeu Schmidt",
+     "author": "Por gshow — Rio de Janeiro / 11/02/2023",
+     "image": "https://s2.glbimg.com/8LSXRsGyfbSv7XXx3-_ABOWDqNI=/0x0:1200x600/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2023/y/J/EqjtkqQPKIztyE5cAaig/provadoanjo.png",
+     "link": "https://gshow.globo.com/realities/bbb/bbb-23/prova-do-anjo/noticia/prova-do-anjo-do-bbb-23-sera-em-dupla-e-dara-carro-ao-vencedor.ghtml"
+   },  
+  
+   {
+     "id": 152,
+     "title": "Gustavo diz que mudou de voto e revela quem vai indicar para o Paredão",
+     "description": "Durante reunião do grupo do Fundo do Mar na festa, Líder Gustavo revela quem vai indicar neste domingo",
+     "author": "Por gshow — Rio de Janeiro / 11/02/2023",
+     "image": "https://s2.glbimg.com/1Y6ZIMpqzr5pTpl8uKz9LF8UKOo=/0x0:1920x1080/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2023/v/M/87TqU0RbOYecZkjsEsuA/bbb23-110223-025250.jpg",
+     "link": "https://gshow.globo.com/realities/bbb/bbb-23/festa/noticia/gustavo-diz-que-mudou-de-voto-e-revela-quem-vai-indicar-para-o-paredao.ghtml"
+   },
+
+   {
+     "id": 151,
+     "title": "Fred se desentende com MC Guimê: 'Não consigo trocar ideia com você'",
+     "description": "Influencer revela desconforto com hábito do cantor e desabafa durante a festa no BBB 23",
+     "author": "Por gshow — Rio de Janeiro / 11/02/2023",
+     "image": "https://s2.glbimg.com/oQ-0-fi7VbPLm2EeovFcGHWI5cY=/0x0:1920x1080/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2023/b/G/HoHNlHQriZQ7f7EB1ZaQ/bbb23-110223-024227.jpg",
+     "link": "https://gshow.globo.com/realities/bbb/bbb-23/festa/noticia/fred-se-desentende-com-mc-guime-nao-consigo-trocar-ideia.ghtml"
+   },  
+  
+   {
+     "id": 150,
+     "title": "Key Alves cogita indicar sister com Poder Curinga",
+     "description": "Jogadora de vôlei especula sobre qual seria o poder, mas já tem nome para possível indicação",
+     "author": "Por gshow — Rio de Janeiro / 11/02/2023",
+     "image": "https://s2.glbimg.com/NeW4HfQAo690Y9cOROSZEa1EhSI=/0x0:1920x1080/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2023/C/S/qlwAB0RHSyBUyqhjZArg/bbb23-110223-023839.jpg",
+     "link": "https://gshow.globo.com/realities/bbb/bbb-23/festa/noticia/no-bbb-23-key-alves-cogita-indicar-sister-com-poder-curinga.ghtml"
+   },
+
+  {
+     "id": 149,
+     "title": "Fred diz que não tem 'o menor apreço' por brother",
+     "description": "Em conversa com Cara Sapato e Bruna Griphao durante festa, o trio também especula sobre quem comandaria o Quarto Fundo do Mar",
+     "author": "Por gshow — Rio de Janeiro / 11/02/2023",
+     "image": "https://s2.glbimg.com/zmkhKJtzoclfSSg2z8bkVgURfKI=/0x0:1920x1080/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2023/A/a/8pv0pMSSKXBSTXsn3kVg/bbb23-110223-023452.jpg",
+     "link": "https://gshow.globo.com/realities/bbb/bbb-23/festa/noticia/fred-e-bruna-griphao-especulam-sobre-brother-que-comanda-o-fundo-do-mar.ghtml"
+   },  
+  
+   {
+     "id": 148,
+     "title": "'Está pensando que é quem?'",
+     "description": "Em conversa com Gustavo, a jogadora de vôlei critica atitude de sister durante a festa",
+     "author": "Por gshow — Rio de Janeiro / 11/02/2023",
+     "image": "https://s2.glbimg.com/f-MBtImIORomTsOSBOiLkGf9yd4=/0x0:1595x900/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2023/Y/P/Fv6l5QQSWfdQYi2j6hLA/key-alves-e-gustavo-bbb-23.jpg",
+     "link": "https://gshow.globo.com/realities/bbb/bbb-23/festa/noticia/key-alves-dispara-contra-sister-do-bbb-23-esta-pensando-que-e-quem.ghtml"
+   },
+
+   {
+     "id": 147,
+     "title": "'A pegada dela é chamar a atenção'",
+     "description": "Em conversa com Key Alves e Domitila Barros durante festa, Cezar ironiza e imita sister",
+     "author": "Por gshow — Rio de Janeiro / 11/02/2023",
+     "image": "https://s2.glbimg.com/0tcaaAgBxBn3UC9j1-tYMeDFQjA=/0x0:1920x1080/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2023/l/O/eVINyKRJyTGygIcaO3rw/bbb23-110223-013146.jpg",
+     "link": "https://gshow.globo.com/realities/bbb/bbb-23/festa/noticia/cezar-dispara-sobre-sister-do-bbb-23-a-pegada-dela-e-chamar-a-atencao.ghtml"
+   },  
+  
+   {
+     "id": 146,
+     "title": "'Gosto de você pra caramba'",
+     "description": "Bruno foi indicado ao Paredão pelo próprio Gustavo, após o fazendeiro atender o Big Fone",
+     "author": "Por gshow — Rio de Janeiro / 11/02/2023",
+     "image": "https://s2.glbimg.com/0bIb8lS-jXD3yEAo1ZPC_l3_tEo=/0x0:1920x1080/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2023/h/J/3iCBs7QLAg53kRcACdDw/bbb23-110223-021243.jpg",
+     "link": "https://gshow.globo.com/realities/bbb/bbb-23/festa/noticia/gustavo-consola-bruno-por-paredao-gosto-de-voce-pra-caramba.ghtml"
+   },
+
+   {
+     "id": 145,
+     "title": "Key Alves fala com Gustavo sobre sister do BBB 23: 'Está me irritando demais'",
+     "description": "Casal aproveitou a festa para comentar sobre sister e possíveis indicações para o Paredão",
+     "author": "Por gshow — Rio de Janeiro / 11/02/2023",
+     "image": "https://s2.glbimg.com/ID8FjazBc4tx5xn-C5mLCG_HpxU=/0x0:1920x1080/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2023/V/j/BSpI0BSy28rIYWyZWNuw/bbb23-110223-014025.jpg",
+     "link": "https://gshow.globo.com/realities/bbb/bbb-23/festa/noticia/key-alves-fala-com-gustavo-sobre-sister-do-bbb-23-esta-me-irritando-demais.ghtml"
+   },  
+  
+   {
+     "id": 144,
+     "title": "Cara de Sapato diz que sente 'maldade' em brother, e Cristian completa: 'Tenho o pé atrás'",
+     "description": "Durante festa do BBB 23, os brothers comentam sobre a formação do VIP de Gustavo e participante escolhido pelo Líder",
+     "author": "Por gshow — Rio de Janeiro / 11/02/2023",
+     "image": "https://s2.glbimg.com/JommEmfNsKlE-NXdsS3ne0OxcnE=/0x0:1920x1080/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2023/x/Q/80TnAXSRAAJaxK0ol3BA/bbb23-110223-011520.jpg",
+     "link": "https://gshow.globo.com/realities/bbb/bbb-23/festa/noticia/cristian-e-cara-de-sapato-comentam-sobre-brother-do-bbb-23-tenho-o-pe-atras-diz-empresario.ghtml"
+   },
+
+  {
+     "id": 143,
+     "title": "Key Alves canta hit de Michael Jackson e afirma: 'Vou perder o medo'",
+     "description": "Jogadora de vôlei fez dueto com Cezar em karaokê",
+     "author": "Por gshow — Rio de Janeiro / 11/02/2023",
+     "image": "https://s2.glbimg.com/T3IIGFWWq6q2xBkCfkaLbji5yI8=/0x0:1920x1080/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2023/2/B/pmnxcfTW2I2tz9LAvdeA/bbb23-110223-005543.jpg",
+     "link": "https://gshow.globo.com/realities/bbb/bbb-23/festa/noticia/key-alves-canta-hit-de-michael-jackson-e-afirma-vou-perder-o-medo.ghtml"
+   },  
+  
+   {
+     "id": 142,
+     "title": "MC Guimê revela qual é o seu Top 3",
+     "description": "Cantor contou suas prioridades para Cara de Sapato",
+     "author": "Por gshow — Rio de Janeiro / 11/02/2023",
+     "image": "https://s2.glbimg.com/GaGOiJrlnu5kvaBdEnqzYIaTqAY=/0x0:1920x1080/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2023/c/h/GJEAIgQmmvKD1je8AirQ/bbb23-110223-003139.jpg",
+     "link": "https://gshow.globo.com/realities/bbb/bbb-23/festa/noticia/mc-guime-revela-qual-e-o-seu-top-3-no-bbb-23.ghtml"
+   },
+
+   {
+     "id": 141,
+     "title": "Gustavo diz que está decepcionado com Cara de Sapato",
+     "description": "Líder da Semana convidou Cezar para Cinema do Líder",
+     "author": "Por gshow — Rio de Janeiro / 11/02/2023",
+     "image": "https://s2.glbimg.com/dumfib9WUQCPMZ1oP6JeTJzZGH4=/0x0:1920x1080/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2023/R/X/wRnIwSSuyxEg9QrrJVAA/bbb23-110223-002757.jpg",
+     "link": "https://gshow.globo.com/realities/bbb/bbb-23/festa/noticia/gustavo-diz-que-esta-decepcionado-com-cara-de-sapato.ghtml"
+   },  
+  
+   {
+     "id": 140,
+     "title": "Tadeu Schmidt celebra visita da família no estúdio do BBB 23: 'Inesquecível'",
+     "description": "Apresentador posou com a esposa e as filhas no palco",
+     "author": "Por gshow — Rio de Janeiro / 11/02/2023",
+     "image": "https://s2.glbimg.com/V9f6-81gMRl-2cGDlKwgD_vMifM=/0x0:1080x814/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2023/f/d/rJiQLTSLGuBMfYv7boAA/329751508-551162050323443-7005741995778690144-n.jpg",
+     "link": "https://gshow.globo.com/realities/bbb/bbb-23/noticia/tadeu-schmidt-celebra-visita-da-familia-no-estudio-do-bbb-23-inesquecivel.ghtml"
+   },
+
+   {
+     "id": 139,
+     "title": "Xand Avião canta hit em festa do BBB 23 e internautas brincam: 'Música da Key'",
+     "description": "Jogadora de vôlei se empolgou e curtiu show nas costas de Cezar",
+     "author": "Por gshow — Rio de Janeiro / 11/02/2023",
+     "image": "https://s2.glbimg.com/B5fvKtPRIPbuoIVFKJvelf8ASI8=/0x0:1920x1080/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2023/g/r/ivjQgUTOWJB6bViBw2Uw/bbb23-100223-232059.jpg",
+     "link": "https://gshow.globo.com/realities/bbb/bbb-23/internet-ta-vendo/noticia/xand-aviao-canta-hit-em-festa-do-bbb-23-e-internautas-brincam-musica-da-key.ghtml"
+   },  
+  
+   {
+     "id": 138,
+     "title": "Domitila Barros e Gustavo comentam sobre divisão de grupos",
+     "description": "Modelo explica conversa recente com MC Guimê",
+     "author": "Por gshow — Rio de Janeiro / 11/02/2023",
+     "image": "https://s2.glbimg.com/JrL7XlZ5NrQ82V1zhmPBvo4Xq2E=/0x0:1920x1080/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2023/L/a/VXVtPvTtWqEkBvfd5hUA/bbb23-100223-223708.jpg",
+     "link": "https://gshow.globo.com/realities/bbb/bbb-23/dentro-da-casa/noticia/domitila-barros-e-gustavo-comentam-sobre-divisao-de-grupos-no-bbb-23.ghtml"
+   },
+
+  {
+     "id": 137,
+     "title": "Bruna Griphao sugere tática para mexer na decisão de Key Alves ao usar o Superpoder Curinga",
+     "description": "Atriz conversa com Cara de Sapato e Amanda sobre possibilidades para mexer com o jogo do grupo rival",
+     "author": "Por gshow — Rio de Janeiro / 11/02/2023",
+     "image": "https://s2.glbimg.com/wOiX7ezb-kUMLqvTiES95tIrUlI=/0x0:1920x1080/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2023/m/p/7UbH6xRWGmUP2AlvLNdg/bbb23-100223-221912.jpg",
+     "link": "https://gshow.globo.com/realities/bbb/bbb-23/dentro-da-casa/noticia/bruna-griphao-sugere-tatica-para-mexer-na-decisao-de-key-alves-ao-usar-o-superpoder-curinga-no-bbb-23.ghtml"
+   },  
+  
+   {
+     "id": 136,
+     "title": "'Você pelado rende mais'",
+     "description": "Biomédica elogia a calça do empresário e acaba fazendo revelação em seguida",
+     "author": "Por gshow — Rio de Janeiro / 11/02/2023",
+     "image": "https://s2.glbimg.com/0yKjx7dVV9fQIuYOJlPbF1dYSJ0=/0x0:1920x1080/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2023/K/R/o182RjRFiPCUxqp6jlcg/bbb23-100223-213825.jpg",
+     "link": "https://gshow.globo.com/realities/bbb/bbb-23/dentro-da-casa/noticia/paula-brinca-com-cristian-no-bbb-23-voce-pelado-rende-mais.ghtml"
+   },
+
+   {
+     "id": 135,
+     "title": "No banho com Gustavo, Key Alves faz revelação picante",
+     "description": "Casal está no Quarto do Líder se preparando para a festa de logo mais, quando a atleta fala sobre a atração que sente pelo brother",
+     "author": "Por gshow — Rio de Janeiro / 11/02/2023",
+     "image": "https://s2.glbimg.com/IksunEpH3YcPRb6m7ZD6j-Chofo=/0x0:1920x1080/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2023/f/q/ZywAQwQHAi1YmV4pKPYg/bbb23-100223-211449.jpg",
+     "link": "https://gshow.globo.com/realities/bbb/bbb-23/dentro-da-casa/noticia/no-banho-com-gustavo-do-bbb-23-key-alves-declara-voce-fica-muito-sexy.ghtml"
+   },  
+  
+   {
+     "id": 134,
+     "title": "Fred Nicácio se surpreende com cheiro do desodorante íntimo de Paula",
+     "description": "O médico comenta que tem cheiro de flores e pergunta: 'Está passando pra quem?'",
+     "author": "Por gshow — Rio de Janeiro / 11/02/2023",
+     "image": "https://s2.glbimg.com/tWxeMWYYiwfdzNi07TFfV_JTAP8=/83x0:1812x1067/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2023/r/W/b5M6MXRYGOwJhngjAliw/bbb23-100223-213925.jpg",
+     "link": "https://gshow.globo.com/realities/bbb/bbb-23/dentro-da-casa/noticia/fred-nicacio-do-bbb-23-se-surpreende-com-cheiro-desodorante-intimo-de-paula.ghtml"
+   },
+
+   {
+     "id": 133,
+     "title": "Xand Avião manda recado aos brothers",
+     "description": "Os participantes ainda recebem os figurinos da festa desta sexta e vão à loucura",
+     "author": "Por gshow — Rio de Janeiro / 11/02/2023",
+     "image": "https://s2.glbimg.com/Hdl80gBY5N388VyuuYrgvE2bcpY=/0x0:1920x1080/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2023/g/9/6u62KBQtW5CHIvfCrbGw/bbb23-100223-204517.jpg",
+     "link": "https://gshow.globo.com/realities/bbb/bbb-23/festa/noticia/xand-aviao-manda-recado-aos-brothers-e-sisters-do-bbb-23-no-pre-festa.ghtml"
+   },  
+  
+   {
+     "id": 132,
+     "title": "Bruna Griphao pede massagem para Cara de Sapato e Amanda reage",
+     "description": "A médica comenta o tempo que demorou para conseguir sua primeira massagem",
+     "author": "Por gshow — Rio de Janeiro / 11/02/2023",
+     "image": "https://s2.glbimg.com/Cjhd7L7Xqf77W7VdC_4CN2APVFo=/0x0:1600x900/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2023/T/a/qmBQBKTMKfHBAj1IIGOw/bruna-griphao-do-bbb-23-pede-massagem-para-cara-de-sapato-e-amanda-reage-2-.jpeg",
+     "link": "https://gshow.globo.com/realities/bbb/bbb-23/dentro-da-casa/noticia/bruna-griphao-do-bbb-23-pede-massagem-para-cara-de-sapato-e-amanda-reage.ghtml"
+   },
    {
      "id": 131,
      "title": "Sarah Aline fala sobre a relação do Quarto Fundo Do Mar: 'É literalmente por sobrevivência'",
